@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Martin, a software developer and cybersecurity enthusiast.
+
+
+![Profile views](https://komarev.com/ghpvc/?username=MartinPSDev&color=blue)
 
 <!--
 **MartinPSDev/MartinPSDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
